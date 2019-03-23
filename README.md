@@ -1,3 +1,3 @@
 # CourtCounter
-Second project of the Udacity Android Basics course.
-Single screen Android app for keeping track of the scores in a basketball game.
+Second project of the Udacity Android Basics course: Practice set "Making an app interactive".
+App to track scores in a basketball game.
